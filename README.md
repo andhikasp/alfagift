@@ -126,7 +126,7 @@ appium -v
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/andhikasp/alfagift.git
 cd alfagift
 ```
 
@@ -252,6 +252,21 @@ mvn test -Dcucumber.options="--tags @PositiveTest"
 4. User klik tombol search
 5. User memilih produk spesifik
 6. Verify halaman detail produk ditampilkan
+
+---
+
+## 🎥 Test Results
+
+Lihat video demonstrasi hasil test execution:
+
+📹 **[Test Execution Video](https://drive.google.com/file/d/1RpQbVIeH93f_npC9q0LBSV-rfaoteF4p/view?usp=drive_link)**
+
+Video ini menampilkan:
+
+- ✅ Proses test execution secara lengkap
+- ✅ Login flow automation
+- ✅ Shopping feature testing
+- ✅ Test results dan reporting
 
 ---
 
